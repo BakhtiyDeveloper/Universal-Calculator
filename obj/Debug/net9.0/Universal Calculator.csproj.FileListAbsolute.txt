@@ -12,3 +12,4 @@ D:\.NET course\Projects\Universal Calculator\obj\Debug\net9.0\refint\Universal C
 D:\.NET course\Projects\Universal Calculator\obj\Debug\net9.0\Universal Calculator.pdb
 D:\.NET course\Projects\Universal Calculator\obj\Debug\net9.0\Universal Calculator.genruntimeconfig.cache
 D:\.NET course\Projects\Universal Calculator\obj\Debug\net9.0\ref\Universal Calculator.dll
+D:\.NET course\Projects\Universal Calculator\obj\Debug\net9.0\Universal Calculator.sourcelink.json
